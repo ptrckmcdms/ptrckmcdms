@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ptrckmcdms
 - 👀 I’m interested in ... using data analysis to drive climate action
-- 🌱 I’m currently learning ... SQL, R, Javascript
+- 🌱 I’m currently learning ... SQL, Python
 - 📫 How to reach me ... patrickmcadams1 (at) gmail (dot) com
 
 <!---
